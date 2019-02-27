@@ -1,0 +1,14 @@
+{
+  "name": "broadlink-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "broadlink-server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ariel Flashner",
+  "license": "MIT",
+  "dependencies": {
+    "broadlinkjs": "^0.1.0"
+  }
+}
